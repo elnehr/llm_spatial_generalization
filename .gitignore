@@ -1,0 +1,12 @@
+# Ignore all PNG, csv, pdf, html, and json files
+*.png
+*.csv
+*.pdf
+*.json
+*.jsonl
+*.html
+code/archive/
+crop_calender/
+regional_best_practices/brazil_questions/
+regional_best_practices/archive/
+code/__pycache__/
